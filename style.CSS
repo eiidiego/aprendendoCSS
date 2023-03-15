@@ -1,14 +1,20 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(19, 136, 231);
   }
   
   h1 {
-    color: white;
-    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(112, 207, 207);
   }
   
   p {
-    color: red;
+    color: rgb(8, 6, 6);
     font-family: verdana;
     font-size: 20px;
+  }
+  .center {
+    text-align: center;
+  }
+  .cor {
+    color:rgb(0, 0, 0)
   }
