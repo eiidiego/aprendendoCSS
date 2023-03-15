@@ -1,10 +1,18 @@
+
 body {
-    background-color: rgb(19, 136, 231);
+    background-image:url("img/fundo.jpg") ;
+   /* background-color: rgb(19, 136, 231);
+  */
   }
   
   h1 {
     border: 2px solid rgb(0, 0, 0);
     background-color: rgb(112, 207, 207);
+    opacity: 0.3;
+    border-width: 4px;
+    border-radius: 50px;
+    padding-top: 20px;
+    margin: 20px;
   }
   
   p {
@@ -17,4 +25,7 @@ body {
   }
   .cor {
     color:rgb(0, 0, 0)
+  
   }
+
+  
